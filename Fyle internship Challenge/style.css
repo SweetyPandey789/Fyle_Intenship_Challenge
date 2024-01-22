@@ -1,0 +1,204 @@
+
+
+/* .about {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid;
+  padding: 10px;
+  margin-top: 10%;
+} */
+img {
+
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 5px;
+    width: 150px;
+    margin-left:1cap;
+    margin-top: 1%;
+    float:left;
+    text-overflow: clip;
+    margin-right:5%;
+   
+}
+ 
+    
+    .text {
+      margin-top:0%;
+      margin-right:500%;
+      position: absolute;
+     margin-right:auto;
+     text-align:center;
+      float:right;
+    }
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  
+.container{
+  border-style:solid;
+}
+  /* div {
+    border-style:solid;
+  } */
+  button {
+    background-color:rgb(136, 194, 245); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    /* margin-left:1%; */
+    text-decoration: none;
+    display: inline-block;
+    /* font-size: px; */
+    margin-bottom:1%;
+  }
+ 
+ .container1{
+  margin-left: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:3%;
+  float:left;
+  border-style:solid;
+  }
+
+ .container2{
+  margin-right: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:3%;
+  float:right;
+  border-style:solid;
+ }
+ .container3{
+  float:left;
+  margin-left: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:3%;
+  border-style:solid;
+  
+ }
+ .container4{
+  margin-right: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:3%;
+  border-style:solid;
+  float:right;
+ }
+ /* .container5{
+  float:left;
+  margin-left: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:5%;
+  border-style:solid;
+  
+ }
+  */
+  .container5{
+    margin-left: 4%;
+    text-align:left;
+    width:500px;
+    margin-top:3%;
+    float:left;
+     
+    border-style:solid;
+   }
+   .container6{
+    margin-right: 4%;
+    text-align:left;
+    width:500px;
+    margin-top:3%;
+    border-style:solid;
+    float:right;
+   }
+ /* .container5{
+  margin-right: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:4%;
+  border-style:solid;
+  float:left;
+ }  */
+ /*
+ .container6{
+  margin-right: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:4%;
+  border-style:solid;
+  float:right;
+ } */
+ .container6{
+  margin-right: 4%;
+  text-align:left;
+  width:500px;
+  margin-top:4%;
+  float:right;
+  border-style:solid;
+  
+ }
+ .pagination a {
+  margin-bottom:0%;
+  color: black;
+    float: left;
+  /* display: inline-block;  */
+  padding:8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  
+  
+}
+
+/* Style the active/current link */
+.pagination a.active {
+border-color: black;
+  background-color: dodgerblue;
+  
+}
+
+/* Add a grey background color on mouse-over */
+.pagination a:hover:not(.active) {background-color: #ddd;}
+.sec2{
+  margin-bottom: 1%;
+  text-align:center;
+  display:inline;
+}
+
+.btn1{
+  border-radius:9cqb;
+  /* margin-top:0%; */
+  margin-left:30%;
+  background-color: #ddd;
+}
+.btn2{
+  border-radius:9cqb;
+   margin-left:30%;
+   background-color: #ddd;
+   color:blue;
+   }
+.pagination {
+  float: right;
+  display: inline-block;
+  padding-left: 0;
+  margin: 50px 0;
+  margin-right:30%;
+  border-radius: 4px;
+  border-color:black;
+  align-items: center;
+  text-align:center;
+  border-style:solid;
+  border-block-color: solid;
+}
+/* .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* align-items: center; */
+  /* color: white; */
+  /* text-align: center; */
+/* } */ 
